@@ -1,0 +1,6 @@
+img {
+  transition: transform 0.3s ease-in-out;
+}
+img:hover {
+  transform: rotate(10deg) scale(1.1);
+}
